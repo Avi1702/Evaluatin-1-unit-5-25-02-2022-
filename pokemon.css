@@ -1,0 +1,22 @@
+body{
+    
+    display: flex;
+}
+#left{
+    width: 50%;
+    border: 1px solid black;
+}
+#right{
+    width: 50%;
+    border: 1px solid black;
+}
+table,th,td{
+    border: 1px solid black;
+    
+}
+#search{
+    width: 70%;
+}
+button{
+    width: 20%;
+}
